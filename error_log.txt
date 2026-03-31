@@ -1,0 +1,2 @@
+[2026-04-01 03:18:46.128228] ERROR division_error: division by zero
+[2026-04-01 03:18:46.671803] ERROR product_lookup: 404 for ID 999
